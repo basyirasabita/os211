@@ -3,17 +3,15 @@
     {% include 'head.html' %}
     <body>
         <header>
-            <h1>
+            <div>
                 {% if page.title %}{{ page.title | escape }}
                 {% else %}{{ site.title | escape }}{% endif %}   
-            </h1>
-            <h6>
                 {% if page.author %}{{ page.author | escape }}
                 {% else %}{{ site.author | escape }}{% endif %}
                 ---
                 {% if page.address %}{{ page.address | escape }}
                 {% else %}{{ site.address | escape }}{% endif %}
-            </h6>
+            </div>
         </header>
         {% include 'navbar.html' %}
         <section>
