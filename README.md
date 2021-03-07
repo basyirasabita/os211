@@ -18,7 +18,8 @@ Weekly Top 10 Lists
 
 My OS related github :
 --------------------------------------------------
+[My GitHub Repository](https://github.com/basyirasabita/os211)<br>
+[My Github Page](https://basyirasabita.github.io/os211/)<br>
+[My OS Logs](https://basyirasabita.github.io/os211/TXT/mylog.txt)
 
-[Github Repository](https://github.com/basyirasabita/os211)
-[My GitHub Page](https://basyirasabita.github.io/os211/) 
-[My OS Log](https://basyirasabita.github.io/os211/TXT/mylog.txt)
+
