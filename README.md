@@ -19,6 +19,6 @@ My OS related github :
 --------------------------------------------------
 [My GitHub Repository](https://github.com/basyirasabita/os211)<br>
 [My Github Page](https://basyirasabita.github.io/os211/)<br>
-[My OS Logs](https://basyirasabita.github.io/os211/TXT/mylog.txt)
-
+[My OS Logs](https://basyirasabita.github.io/os211/TXT/mylog.txt)<br>
+[My OS Ranks](https://basyirasabita.github.io/os211/TXT/myrank.txt)
 
