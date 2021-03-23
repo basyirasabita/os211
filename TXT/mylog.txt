@@ -29,4 +29,7 @@ ZCZC W02 60 L10 Assignment (General)
 ZCZC W02 20 L22 Youtube : study
 ZCZC W03 90 L02 ZOOM Related
 ZCZC W03 70 L10 Assignment (General)
-ZCZC W03 30 GSGS Related
+ZCZC W03 30 L05 GSGS Related
+ZCZC W03 100 L10 Assignment (General)
+ZCZC W03 30 L22 Youtube : study
+ZCZC W03 30 L05 GSGS Related
