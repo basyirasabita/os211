@@ -36,3 +36,5 @@ ZCZC W03 30 L05 GSGS Related
 ZCZC W04 90 L02 ZOOM Related
 ZCZC W04 60 L10 Assignment (General)
 ZCZC W04 60 GSGS Related
+ZCZC W04 70 L10 Assigment (General)
+ZCZC W04 40 L06 Reading References/Books/Documents
