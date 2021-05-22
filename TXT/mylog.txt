@@ -59,3 +59,5 @@ ZCZC W08 40 L06 Reading References/Books/Documents
 ZCZC W08 40 L22 Youtube : study
 ZCZC W08 60 L10 Assignment (General)
 ZCZC W08 40 L05 GSGS Related
+ZCZC W09 120 ZOOM Related
+ZCZC W09 40 L05 GSGS Related
